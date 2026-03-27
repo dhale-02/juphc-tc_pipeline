@@ -7,7 +7,7 @@ spec:
     name: tax-calculator-pipeline
   params:
     - name: repo-url
-      value: https://github.com/dhale-02/tax_calculator
+      value: https://github.com/dhale-02/juphc-c_pipeline
     - name: branch-name
       value: main
   workspaces:
